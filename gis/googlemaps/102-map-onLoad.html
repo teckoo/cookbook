@@ -18,17 +18,15 @@
             };
             var map=new google.maps.Map(document.getElementById("googleMap"), mapProp);
         }
-        google.maps.event.addDomListener(window, 'load', initialize);
+
     </script>
 
 </head>
-<body>
+<body onload="initialize()">
 
-<div id="googleMap" style="width:500px;height:380px;"></div>
+<div id="googleMap" style="width:500px;height:380px;border:2px solid darkgreen"></div>
 
 Note:
-
-register an event for map loading.
-
+Load the map with "onload" action.
 </body>
 </html>
