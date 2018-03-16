@@ -1,0 +1,151 @@
+[
+  {
+    "name": "JPMorganChase #628", "colour":"grey",
+    "children": [
+      {"name":"JPMC",
+        "children":[
+          {"name":"JPMC",
+            "children":[
+              {"name":"Chemical Bank_1824", "colour":"grey"},
+              {"name":"Security National_1975", "colour":"#DDBBFF"},
+              {"name":"Eastern  National_1975", "colour":"#DDBBFF"},
+              {"name":"HudsonValley 1977", "colour":"#DDBBFF"},
+              {"name":"Binghamton 1978", "colour":"#DDBBFF"},
+              {"name":"Buffalo 1978", "colour":"#DDBBFF"}
+            ]
+          },
+          {"name":"Manhattan 1996","colour":"#FFDDAA" },
+          {"name":"Manufacturers Hanover_1992","colour":"#FFDDAA" },
+          {"name":"CentralFSB 1992","colour":"#FFDDAA" }
+        ]
+      },
+      {"name":"BearStearns 2008"},
+      {"name":"Washington Mutual_2008",
+        "children":[
+          {"name":"OlympusFSB 1995"},
+          {"name":"UtahFSB 1996"}
+        ]
+      },
+      {"name":"BankOne 2006", "colour":"blue",
+        "children":[
+          {"name":"Liberty 1997","colour":"#D2FFFF"},
+          {"name":"Moline 1998","colour":"#D2FFFF"},
+          {"name":"CityNational BatonRouge_1998","colour":"#D2FFFF"},
+          {"name":"FirstChicago 2004","colour":"#D2FFFF" }
+          ]
+      },
+      {"name":"Morgan 2001","colour":"#BFFFCC"},
+      {"name":"SanAngelo 2001","colour":"#BFFFCC"},
+      {"name":"TexasCommerce 2000","colour":"#BFFFCC"}
+    ]
+  },
+  {
+    "name": "BOA #3510", "colour": "red",
+    "children": [
+      {"name": "Fleet 2005", "colour": "#006BB6"},
+      {"name": "MBNA 2006", "colour": "#006BB6"},
+      {"name": "USTrust 2008", "colour": "#006BB6"},
+      {"name": "LaSalle 2008", "colour": "#006BB6"},
+      {"name": "MerrillLynch 2009", "colour": "#012169"},
+      {"name": "Countrywide 2009", "colour": "#012169"},
+      {"name": "BOA", "colour":"red",
+        "children":[
+          {"name": "FirstFederal 1990", "colour":"#FFa5a5" },
+          {"name": "SantaBarbara 1991" },
+          {"name": "Valley Bank of Nevada" },
+          {"name": "Continental 1997", "colour": "#006BB6"},
+          {"name": "NationsBank 1999", "colour": "#006BB6"},
+          {"name":"SecurityPacific 1999"},
+          {"name": "BOA","colour":"red"}
+        ]
+      }
+    ]
+  },
+  { "name": "Wells_Fargo #3511", "colour":"orange",
+    "children": [
+      {"name":"FirstInter- state_2011", "colour":"#B2EFF7"},
+      {"name":"Wachovia 2009",
+        "children":[
+          {"name":"WorldSavings 2007"}
+        ]
+      },
+      {"name":"Century 2009", "colour":"#B2EFF7"},
+      {"name":"Dial 2009", "colour":"#B2EFF7"},
+      {"name":"IntraWest 2009", "colour":"#B2EFF7"},
+      {"name":"Shoeshone 2008", "colour":"#B2EFF7"},
+      {"name":"JacksonState 2008", "colour":"#B2EFF7"},
+      {"name":"SheridanState 2008", "colour":"#B2EFF7"},
+      {"name":"GraterBay 2008", "colour":"#B2EFF7"},
+      {"name":"PlacerSierra 2007", "colour":"#B2EFF7"},
+      {"name":"Centennial 2006", "colour":"#B2EFF7"},
+      {"name":"FremontNational 2006", "colour":"#B2EFF7"},
+      {"name":"StateBankOf Rogers_2006", "colour":"#B2EFF7"},
+      {"name":"FirstCommunity2005", "colour":"#B2EFF7"},
+      {"name":"Pacific NorthWest_2004", "children":[
+        {"name":"Central Washington_1996", "colour":"#B2EFF7"},
+        {"name":"Tukwila 2000", "colour":"#B2EFF7"},
+        {"name":"Northwest 2002", "colour":"#B2EFF7"}
+      ]},
+      {"name":"Wells",
+      "children":[
+        {"name":"FirstState 1996", "colour":"#E0A664"},
+        {"name":"ElCamino 1991", "colour":"#E0A664"},
+        {"name":"TorreyPines 1990", "colour":"#E0A664"},
+        {"name":"Wells",
+          "children": [
+            {"name": "Wells 1870", "colour":"orange"},
+            {"name":"Paradise 1989"},
+            {"name":"Barclays California_1989", "children":[
+              {"name":"County 1974", "colour":"#FFE070"},
+              {"name":"Valencia 1986", "colour":"#FFE070"},
+              {"name":"TorreyPines 1990", "colour":"#FFE070"},
+              {"name":"SantaYnez 1971", "colour":"#FFE070"},
+              {"name":"SanJoanquin 1972", "colour":"#FFE070"},
+              {"name":"Agriculture 1973", "colour":"#FFE070"},
+              {"name":"ElCamino 1991", "colour":"#FFE070"}
+            ]},
+            {"name":"USNational 1986", "children":[
+              {"name":"Southland 1970"},
+              {"name":"Hollywood 1971"},
+              {"name":"BeverlyHills 1970"}
+
+            ]},
+            {"name":"Imperial Valley_1973", "children":[
+              {"name":"FirstNational 1972"}
+            ]}
+          ]
+        }
+      ]}
+    ]
+  },
+  { "name": "Citibank #7213", "colour": "blue",
+    "children":[
+      {"name":"Travelers 2012", "colour":"#F1FFF8" },
+      {"name":"FirstAmerican 2006",
+      "children":[
+        {"name":"Olney 1988", "colour":"#F7C69B"},
+        {"name":"SanAngelo 1988", "colour":"#F7C69B"},
+        {"name":"Odessa 1988", "colour":"#F7C69B"},
+        {"name":"BancHome 1988", "colour":"#F7C69B"},
+        {"name":"Southern 1988", "colour":"#F7C69B"},
+        {"name":"HeartOTexas 1988", "colour":"#F7C69B"},
+        {"name":"Shamrock 1988", "colour":"#F7C69B"},
+        {"name":"Petroplex 1988", "colour":"#F7C69B"},
+        {"name":"Austin 1998", "colour":"#F7C69B"},
+        {"name":"Burkburnett 1998", "colour":"#F1FFF8"}
+      ]},
+      {"name":"European American_2001",
+        "children":[
+          {"name":"Franklin 1984", "colour":"#6F84FF"},
+          {"name":"Olympian 2000", "colour":"#5BD3FF"}
+        ]
+      },
+      {"name":"Citi", "colour":"red", "children":[
+        {"name":"CentralValley 1976", "colour":"#9AD2FF"},
+        {"name":"Banco 1982", "colour":"#4BFFFF"},
+        {"name":"Girod 1984", "colour":"#B2D0FE"},
+        {"name":"Citi 1812", "colour":"Blue"}
+      ] }
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+
+JPMC #628
+=====================
+Date	Event
+1/1/1824	Institution established: Original name:Chemical Bank & Trust Company (628)
+1/18/1975	Acquired Security National Bank (7113) in HEMPSTEAD, NY
+11/10/1975	Acquired Chemical Bank of Suffolk, National Association (17544) in SMITHTOWN, NY
+4/1/1977	Acquired Chemical Bank Hudson Valley, National Association (17430) in NYACK, NY
+10/1/1978	Acquired Chemical Bank of Binghamton (21935) in BINGHAMTON, NY
+10/1/1978	Acquired Chemical Bank-Buffalo (21298) in BUFFALO, NY
+10/1/1978	Acquired Chemical Bank - Eastern, National Association (7084) in GREENWICH, NY
+10/1/1978	Acquired Chemical Bank of Rochester (9408) in HILTON, NY
+10/1/1978	Acquired Chemical Bank of Syracuse (21391) in SYRACUSE, NY
+7/19/1991	Acquired Ensign Federal Savings Bank (33159) in NEW YORK CITY, NY
+11/8/1991	Acquired Community National Bank and Trust Company of New York (19519) in NEW YORK CITY, NY
+3/7/1992	Acquired Chemical Bank Delaware (24024) in WILMINGTON, DE
+3/13/1992	Acquired Central Federal Savings Bank (33277) in MINEOLA, NY
+6/20/1992	Acquired Manufacturers Hanover Trust Company (641) in NEW YORK CITY, NY
+7/1/1993	Acquired Texas Commerce Banks (26825) in NEWARK, DE
+7/14/1996	Acquired The Chase Manhattan Bank (National Association) (624) in NEW YORK CITY, NY
+12/1/1996	Acquired The Chase Manhattan Bank, National Association (23686) in MORRISTOWN, NJ
+10/1/1998	Acquired Morgan Stanley Trust Company (27272) in NEW YORK CITY, NY
+3/5/1999	Acquired Texas Commerce Trust Company of New York (91273) in NEW YORK CITY, NY
+8/1/2000	Acquired Chase Bank of Texas, National Association (3263) in HOUSTON, TX
+8/1/2001	Acquired Chase Bank of Texas-San Angelo, National Association (5508) in SAN ANGELO, TX
+11/10/2001	Acquired Morgan Guaranty Trust Company of New York (637) in NEW YORK CITY, NY
+11/13/2004	Acquired Bank One, National Association (6559) in COLUMBUS, OH
+11/13/2004	Acquired Bank One, National Association (3618) in CHICAGO, IL
+10/20/2006	Acquired Bank One Trust Company, National Association (21377) in COLUMBUS, OH
+8/16/2008	Acquired J. P. Morgan Trust Company, National Association (34696) in LOS ANGELES, CA
+9/25/2008	Acquired Washington Mutual Bank (32633) in HENDERSON, NV as part of a government assisted transaction.
+9/25/2008	Acquired Washington Mutual Bank FSB (33891) in PARK CITY, UT
+
+10/14/2011	Acquired Custodial Trust Company (25809) in JERSEY CITY, NJ
+8/31/2015	Acquired JPMorgan Bank and Trust Company, National Association (58729) in SAN FRANCISCO, CA
+
+BAC  #3510
+=====================
+https://research.fdic.gov/bankfind/detail.html?bank=3510&name=Bank%20of%20America,%20National%20Association&searchName=&searchFdic=3510&city=&state=&zip=&address=&searchWithin=&activeFlag=&tabId=2
+
+10/17/1904	Institution established: Original name:Bank of America National Trust and Savings Association (3510)
+4/27/1990	Acquired First Federal Savings and Loan Association (28119) in BAKERSFIELD, CA
+4/27/1990	Acquired The Guardian Federal Savings and Loan Association (32142) in BAKERSFIELD, CA
+11/16/1990	Acquired Southwest Federal Savings Association (32814) in LOS ANGELES, CA
+8/9/1991	Acquired Santa Barbara Federal Savings and Loan Association (33044) in SANTA BARBARA, CA as part of a government assisted transaction.
+4/22/1992	Acquired Security Pacific National Bank (3469) in LOS ANGELES, CA
+7/1/1996	Acquired Bank of America Oregon (22911) in PORTLAND, OR
+9/1/1996	Acquired Bankamerica National Trust Company (24430) in NEW YORK CITY, NY
+1/1/1997	Acquired Bank of America-Alaska, National Association (20209) in ANCHORAGE, AK
+1/1/1997	Acquired Bank of America New Mexico, National Association (33326) in ALBUQUERQUE, NM
+1/1/1997	Acquired Bank of America, National Association (17300) in LAS VEGAS, NV
+1/1/1997	Acquired Bank of America Arizona (32971) in PHOENIX, AZ
+1/1/1997	Acquired Bank of America NW, National Association (2970) in SEATTLE, WA
+7/1/1997	Acquired Bank of America Trust Company of Florida, National Association (23691) in BOCA RATON, FL
+7/1/1997	Acquired Bank of America Illinois (3622) in CHICAGO, IL
+7/23/1999	Acquired Bank of America, National Association (15802) in CHARLOTTE, NC
+12/1/1999	Acquired Bank of America Utah, National Association (9575) in SALT LAKE CITY, UT
+5/31/2001	Acquired NationsBank Trust Company of New York (33937) in NEW YORK, NY
+6/13/2005	Acquired Fleet National Bank (2558) in PROVIDENCE, RI
+9/22/2006	Acquired MBNA America Delaware, National Association (34680) in WILMINGTON, DE
+2/22/2008	Acquired United States Trust Company , National Association (34061) in NEW YORK, NY
+6/30/2008	Acquired Bank of America Georgia, National Association (57117) in ATLANTA, GA
+10/17/2008	Acquired LaSalle Bank National Association (15407) in CHICAGO, IL
+10/17/2008	Acquired LaSalle Bank Midwest National Association (22488) in TROY, MI
+4/27/2009	Acquired Countrywide Bank, FSB (33143) in CENTENNIAL, CO
+7/1/2009	Acquired Merrill Lynch Bank USA (27374) in SALT LAKE CITY, UT
+11/2/2009	Acquired Merrill Lynch Bank & Trust Co., FSB (34571) in NEW YORK, NY
+4/1/2013	Acquired Bank of America Oregon, National Association (35453) in PORTLAND, OR
+4/1/2013	Acquired Bank of America, Rhode Island, National Association (58032) in PROVIDENCE, RI
+10/1/2014	Acquired FIA Card Services, National Association (33318) in WILMINGTON, DE
+
+Wells Fargo #3511
+=================
+1/1/1870	Institution established: Original name:Crocker First National Bank of San Francisco (3511)
+5/19/1972	Acquired The First National Bank of Upland (3536) in UPLAND, CA
+10/19/1973	Acquired United States National Bank (3506) in SAN DIEGO, CA
+12/31/1973	Acquired Imperial Valley National Bank (19518) in EL CENTRO, CA
+5/30/1986	Acquired Wells Fargo Bank, National Association (1230) in SAN FRANCISCO, CA
+5/31/1988	Acquired Barclays Bank of California (19521) in SAN FRANCISCO, CA
+7/31/1989	Acquired Bank of Paradise (23480) in PARADISE, CA
+1/1/1990	Acquired Valley National Bank, Glendale (17820) in GLENDALE, CA
+3/31/1990	Acquired American National Bank (19301) in BAKERSFIELD, CA
+4/1/1990	Acquired Torrey Pines Bank (22809) in SOLANA BEACH, CA
+1/1/1991	Acquired El Camino Bank (20176) in ANAHEIM, CA
+1/1/1991	Acquired Citizens Bank of Costa Mesa (20878) in COSTA MESA, CA
+4/1/1996	Acquired First Interstate Bank of California (1226) in LOS ANGELES, CA
+6/1/1996	Acquired First Interstate Bank of Idaho, National Association (16549) in BOISE, ID
+6/1/1996	Acquired First Interstate Bank of Nevada, National Association (2278) in LAS VEGAS, NV
+6/1/1996	Acquired First Interstate Bank of New Mexico, National Association (16408) in SANTA FE, NM
+6/1/1996	Acquired First Interstate Bank of Utah, National Association (1261) in SALT LAKE CITY, UT
+6/1/1996	Acquired First Interstate Bank of Oregon, National Association (2915) in PORTLAND, OR
+6/6/1996	Acquired First Interstate Bank of Washington, National Association (2981) in SEATTLE, WA
+9/1/1996	Acquired Wells Fargo Bank of Arizona, National Association (2843) in PHOENIX, AZ
+6/1/1997	Acquired Wells Fargo Bank (Colorado), National Association (3009) in DENVER, CO
+2/18/2000	Acquired Wells Fargo Bank (Arizona), National Association (34029) in PHOENIX, AZ
+7/8/2000	Acquired Norwest Bank Red Wing, National Association (5233) in RED WING, MN
+8/18/2000	Acquired North County Bank (21621) in ESCONDIDO, CA
+8/25/2000	Acquired Napa National Bank (23941) in NAPA, CA
+12/16/2000	Acquired First Security Bank of California, N.A. (23496) in WEST COVINA, CA
+11/21/2003	Acquired Wells Fargo Bank Alaska, National Association (16853) in ANCHORAGE, AK
+11/21/2003	Acquired Wells Fargo Bank Montana, National Association (16309) in BILLINGS, MT
+11/21/2003	Acquired Wells Fargo Bank Nebraska, National Association (5457) in OMAHA, NE
+11/21/2003	Acquired Wells Fargo Bank Texas, National Association (14533) in SAN ANTONIO, TX
+11/21/2003	Acquired Wells Fargo Bank West, National Association (3011) in DENVER, CO
+11/21/2003	Acquired Wells Fargo Bank Wyoming, National Association (2210) in CASPER, WY
+12/6/2003	Acquired Bank of Grand Junction (24500) in GRAND JUNCTION, CO
+2/20/2004	Acquired Wells Fargo Bank Minnesota, National Association (5208) in MINNEAPOLIS, MN
+2/20/2004	Acquired Wells Fargo Bank Nevada, National Association (27930) in LAS VEGAS, NV
+2/20/2004	Acquired Wells Fargo Bank New Mexico, National Association (2252) in ALBUQUERQUE, NM
+2/20/2004	Acquired Wells Fargo Bank North Dakota, National Association (3922) in FARGO, ND
+2/20/2004	Acquired Wells Fargo Bank South Dakota, National Association (15277) in SIOUX FALLS, SD
+2/20/2004	Acquired Wells Fargo Bank Iowa, National Association (4448) in DES MOINES, IA
+2/20/2004	Acquired Wells Fargo Bank Illinois, National Association (3667) in GALESBURG, IL
+2/20/2004	Acquired Wells Fargo Bank Indiana, National Association (13849) in FORT WAYNE, IN
+2/20/2004	Acquired Wells Fargo Bank Ohio, National Association (778) in VAN WERT, OH
+2/20/2004	Acquired Wells Fargo Bank Wisconsin, National Association (18694) in MILWAUKEE, WI
+2/20/2004	Acquired Wells Fargo Bank Arizona, National Association (19501) in PHOENIX, AZ
+2/20/2004	Acquired Wells Fargo Bank Michigan, National Association (5067) in MARQUETTE, MI
+4/24/2004	Acquired Pacific Northwest Bank (30887) in OAK HARBOR, WA
+9/24/2005	Acquired First Community Bank, National Association (34049) in HOUSTON, TX
+6/17/2006	Acquired State Bank of Rogers (9335) in ROGERS, MN
+9/23/2006	Acquired Fremont National Bank of Canon City (3000) in CANON CITY, CO
+9/23/2006	Acquired Centennial Bank of Pueblo (22301) in PUEBLO, CO
+9/22/2007	Acquired Placer Sierra Bank (30307) in AUBURN, CA
+3/15/2008	Acquired Greater Bay Bank, National Association (27068) in PALO ALTO, CA
+10/18/2008	Acquired Sheridan State Bank (25048) in SHERIDAN, WY
+10/18/2008	Acquired The Jackson State Bank (520) in JACKSON, WY
+10/18/2008	Acquired First State Bank of Pinedale (18747) in PINEDALE, WY
+10/18/2008	Acquired Shoshone First Bank (2214) in CODY, WY
+1/1/2009	Acquired Wells Fargo Bank Grand Junction, National Association (19109) in GRAND JUNCTION, CO
+1/1/2009	Acquired Wells Fargo Bank Grand Junction-Downtown, National Association (12863) in GRAND JUNCTION, CO
+2/2/2009	Acquired Wells Fargo Financial Bank (26983) in SIOUX FALLS, SD
+4/25/2009	Acquired Century Bank, National Association (3361) in TEXARKANA, TX
+11/1/2009	Acquired Wells Fargo Bank Southwest, National Association (27076) in NORTH LAS VEGAS, NV
+11/7/2009	Acquired WACHOVIA BANK OF COLORADO, INTERIM NATIONAL ASSOCIATION (59019) in DENVER, CO
+3/20/2010	Acquired Wachovia Bank, National Association (33869) in CHARLOTTE, NC
+3/20/2010	Acquired Wachovia Bank of Delaware, National Association (33931) in WILMINGTON, DE
+4/10/2010	Acquired Wachovia Card Services, National Association (58496) in ATLANTA, GA
+5/10/2010	Acquired Wells Fargo HSBC Trade Bank, National Association (34075) in SAN FRANCISCO, CA
+11/1/2010	Acquired Wells Fargo Alaska Trust Company, National Association (57755) in ANCHORAGE, AK
+3/31/2011	Acquired Wells Fargo Central Bank (26839) in CALABASAS, CA
+
+Citi Group #7213
+=================
+
+6/16/1812	Institution established: Original name:The National City Bank of NewYork (7213)
+1/2/1976	Acquired Citibank (Suffolk), National Association (20546) in ISLIP TOWNSHIP, NY
+1/2/1976	Acquired Citibank (Mid-Hudson), National Association (6999) in WOODBURY TOWNSHIP, NY
+6/12/1982	Acquired Banco Regional (22321) in BAYAMON, PR
+8/16/1984	Acquired Girod Trust Company (23765) in SAN JUAN, PR
+7/17/2001	Acquired European American Bank (19882) in NEW YORK CITY, NY
+8/30/2003	Acquired Citibank (New York State) (7307) in PITTSFORD, NY
+10/1/2006	Acquired CFSB, National Association (28251) in RESTON, VA
+10/1/2006	Acquired West, National Association (57443) in SAN FRANCISCO, CA
+10/1/2006	Acquired Citibank Texas, National Association (32623) in DALLAS, TX
+10/1/2006	Acquired Citibank (Delaware) (24029) in NEW CASTLE, DE
+10/1/2006	Acquired Citicorp Trust, National Association (26170) in LOS ANGELES, CA
+7/1/2011	Acquired Citibank (South Dakota), N.A. (23360) in SIOUX FALLS, SD
+1/1/2012	Acquired Citicorp Trust Bank, fsb (18708) in WILMINGTON, DE

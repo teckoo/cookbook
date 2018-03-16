@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>US Top 4 Banks merge history</title>
+<meta name="description" content="A visualisation of US bank merge history">
+<style>
+    @import url(style.css);
+
+    path {
+        stroke: #000;
+        stroke-width: 1.5;
+        cursor: pointer;
+    }
+
+    text {
+        font: 11px sans-serif;
+        cursor: pointer;
+    }
+
+    h1 {
+        text-align: center;
+        margin: .5em 0;
+    }
+
+    .wrapper {
+        margin-left: 120px;
+    }
+
+</style>
+
+<h1>Top-4 Bank Merge History</h1>
+<div id="vis"></div>
+<script src="d3.min.js"></script>
+<script src="app.min.js"></script>
+
+
+<h2> Top 4 Big Banks </h2>
+By 2016 Q1, There are 6137 banks listed on FDIC. Among them, only 4 banks
+manage asset over 1 trillion dollars. 
+
+1. JPMorgan Chase #628, 1.91T 
+2. Bank of America #3510, 1.64T
+3. Wells Fargo #3511, 1.61T
+4. Citibank #7213, 1.30T
+
+<h2>Sunburst Trees</h2>
+<p>This is an example of using <a href="http://github.com/mbostock/d3/wiki/Partition-Layout">d3.layout.partition</a> to
+    generate a zoomable sunburst tree derived from hierarchical data. A <a
+            href="http://www.cc.gatech.edu/gvu/ii/sunburst/">sunburst tree</a> is a radial space-filling visualisation,
+    analagous to an icicle tree.
+</p>
+
+<h2>Credits</h2>
+<p>Built with <a href="http://d3js.org">D3.js</a>.
+    Sunburst zooming based on an <a href="http://bl.ocks.org/mbostock/4348373">example</a> by <a
+            href="http://bost.ocks.org/mike">Mike Bostock</a>.
+</p>
+

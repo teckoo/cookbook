@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDh2gkldJ4E0jmZ-INrJziXVw2HgrFM1Lg">
+    </script>
+
+    <script>
+        var myCenter = new google.maps.LatLng(41.508742, -80.520850);
+
+        function initialize() {
+            var mapProp = {
+                center: myCenter,
+                zoom: 5,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+
+            var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+</head>
+
+<body>
+<div id="googleMap" style="width:500px;height:380px;"></div>
+
+This example shows how to detect map area change.
+
+When map area changes, log console will display the new coordinates.
+</body>
+</html>
