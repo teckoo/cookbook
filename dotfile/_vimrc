@@ -1,0 +1,161 @@
+" calling vim-plug manager
+call plug#begin()
+Plug 'drmingdrmer/vim-tabbar'
+Plug 'adelarsq/vim-matchit'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-repeat'
+Plug 'junegunn/vim-easy-align'
+Plug 'ctrlpvim/ctrlp.vim'
+Plug 'tpope/vim-markdown.vim'
+call plug#end()
+
+set nocompatible
+" incsearch Vim will show the first match for the pattern, while you are still typing it. This quickly shows a typo in the pattern.
+set incsearch
+set hlsearch
+set ls=1 " always show status line
+set showmode " display the current mode
+set ignorecase
+set smartcase
+set smartindent
+set autoindent
+set ruler
+set showcmd
+set showmatch
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set smarttab
+set softtabstop=4
+set textwidth=80
+
+set nobackup " do not keep a backup file
+set dir=/dev/shm "set the file dir to RAM drive
+set noerrorbells
+" autowrite enables you to save current buffer before moving to the next one
+set autowrite
+" cursorline will slow down the display
+"set cursorline
+set encoding=utf-8
+set wildmode=longest,list 
+" tab autocomplete like bash
+" syntax on will overrule your settings with the defaults
+" syntax enable will keep your current color settings
+syntax enable 
+"syntax on
+set background=dark
+colorscheme default 
+
+set number
+"setlocal  spell spelllang=en_us
+"set nospell
+
+set mouse=a
+" have the Visual selection automatically copied to the clipboard.
+set go+=a
+"set clipboard=unnamed, also works under the X windowing system. 
+set clipboard=unnamed,unnamedplus
+
+" fold functions za (toggle), zo (Open), zc (Close), zM(close all), zR(open all)
+" :help fold
+set foldmethod=indent
+nnoremap <space> za
+
+" enable file type detection
+:filetype on
+:filetype plugin on 
+
+
+" for java programming
+" http://vim.wikia.com/wiki/Some_Java_tips
+" after a :make you can step forward and back through the compiler messages using :cn and :cp.
+autocmd BufReadPost *.java exe "set dict+=".escape($VIMRUNTIME.'\syntax' .&filetype.'.vim',' \$,')
+compiler ant
+set makeprg=ant\ -find\ 'build.xml'
+
+
+"
+" Omni completion isn't automatically turned on for Vim 7
+autocmd FileType python set omnifunc=pythoncomplete#Complete
+autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+autocmd FileType css set omnifunc=csscomplete#CompleteCSS
+autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
+"autocmd FileType c set omnifunc=ccomplete#Complete
+"autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+"
+"If you want to load all the plugins depending upon the file types.
+setlocal omnifunc=syntaxcomplete#Complete
+" ctrl-p and ctrl-n to select forward/backward choice in the list
+set completeopt=longest,menu
+
+"
+" for unbelievable menus and tab-completions.
+source $VIMRUNTIME/menu.vim 
+set wildmenu
+set cpo-=<
+set wcm=<C-Z>
+map <F4> :emenu <C-Z>
+
+nnoremap <F9> :call ToggleMouse()<CR>
+function! ToggleMouse()
+  if &mouse == 'a'
+    set mouse=
+    echo "Mouse usage disabled"
+  else
+    set mouse=a
+    echo "Mouse usage enabled"
+  endif
+endfunction
+
+"Shift middle click works on urxvt if middle click doesn't paste
+set pastetoggle=<S-F12>
+
+" misc shortcut keys
+" shortcut ctrl-s to save the file
+map <c-s> :w<CR>
+"map <C-c> "+y
+"map <C-v> "+p
+" shortcut ctrl-n to next buffer 
+map <c-n> :bn<CR>
+" shortcut ctrl-s to save the file
+"map <c-p> :bp<CR>
+
+
+""""""""""""""""""""""
+"" chinese input
+"常用设置：
+"按 <Ctrl-\> 在非中文模式直接出选择。
+"按 <Ctrl-6> 进入中文输入模式，此后按空格出选择。
+"
+".vimrc 设置：
+"设置 let g:vimim_shuangpin_xxx = 1 可启用双拼，其中 xxx 的值可以是 abc, microsoft, plusplus, purple, nature.
+"设置 let g:vimim_www_sogou = 1 可启用搜狗云输入。
+"设置 let g:vimim_tab_for_one_key = 1 可使用 tab 键替代 <Ctrl-\>
+
+
+""""""""""""""""""""""
+" for python
+" :map <F5> :!python -m pdb %
+
+"au FileType python source $HOME/.vim/plugin/python.vim 
+"set filetype htmldjango
+
+"for vim python automatically indent itself after some keywords
+autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
+"set paste for python code copy/paste
+"
+"Sometimes it's helpful if your working directory is always the same as the
+"buffer you are editing. 
+" simple version: autocmd BufEnter * lcd %:p:h
+autocmd BufEnter * if expand("%:p:h") !~ '^/tmp' | lcd %:p:h | endif
+
+"source $HOME/.vim/abbr.txt
+
+" for markdown-folding
+"
+"if has("autocmd")
+"    filetype plugin indent on
+"endif
+
+
