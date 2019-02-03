@@ -42,7 +42,7 @@ def string_format():
     https://realpython.com/python-string-formatting/#1-old-style-string-formatting-operator
 
     Which way to use?
-    User supplied format strings? #4 template string
+    User supplied format strings? Yes, #4 template string
 
     Python 3.6+? #3 f-string
     < Python 3.6 #2 str.format
