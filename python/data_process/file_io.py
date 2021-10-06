@@ -2,10 +2,9 @@
 Snippets to manipulate files
 """
 import unittest
-import numpy as np
-import pandas as pd
-import pyarrow as pa
-import pyarrow.parquet as pq
+# import pandas as pd
+# import pyarrow as pa
+# import pyarrow.parquet as pq
 
 
 class DataFrameTest(unittest.TestCase):
@@ -14,6 +13,41 @@ class DataFrameTest(unittest.TestCase):
         """ read CSV, and return a DataFrame"""
         df = pd.read_csv('sample-no-header.csv')
         self.assertEquals(type(df), pd.DataFrame)
+
+
+class CsvTest(unittest.TestCase):
+    """ code snippets for handling CSV files """
+    def test_load_file(self):
+        line = '"a", "b", "1, 2, 3", "d"'
+        expect = ['a', 'b', '1, 2, 3', 'd']
+
+        import csv
+        reader = csv.reader(open("/tmp/sample.csv"), delimiter=',', quotechar='"')
+        result = []
+        for row in reader:
+            result.append(row)
+        self.assertEqual(expect, result[0])
+
+        from io import StringIO
+        f = StringIO(line)
+        reader = csv.reader(f, delimiter=',', quotechar='"')
+        result = []
+        for row in reader:
+            result.append(row)
+        self.assertEqual(expect, result[0])
+
+        # simpler version with split() on newlines:
+        reader = csv.reader(line.split('\n'), delimiter=',', quotechar='"')
+        result = []
+        for row in reader:
+            print('\t'.join(row))
+
+        # simpler version with split() on newlines:
+        reader = csv.reader(line.split('\n'), delimiter=',', quotechar='"')
+        result = []
+        for row in reader:
+            result.append(row)
+        self.assertEqual(expect, result[0])
 
 
 def read_parquet(fn):
@@ -37,6 +71,5 @@ def write_parquet(df, fn):
   df.write.parquet(fn)
 
 
-if __file__ == "__main__":
+if __name__ == "__main__":
     unittest.main()
-
